@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LrvinyE - World Peace</title>
+    <link href="tailwind.css" rel="stylesheet" />
+  </head>
+  <body class="bg-black text-white font-mono h-96 transition-all">
+    <div class="m-20 h-full flex flex-col">
+      <div class="line-info">
+        <div>I'm LrvinyE</div>
+        <div class="" id="lightButton"></div>
+      </div>
+      <div class="flex line-info">
+        <div class="mr-2">Age</div>
+        <div id="my-age"></div>
+      </div>
+      <div class="flex line-info mb-5">From 🇨🇳</div>
+
+      <div class="flex line-info">An interesting flight cadets</div>
+      <div class="flex line-info mb-3">And awesome developer for CODE</div>
+
+      <div class="flex line-info">Welcome to my personal page</div>
+      <div class="flex line-info">There is NOTHING but EVERYTHING</div>
+
+      <div class="mt-auto line-info mb-3">
+        <a href="http://lrvinye.cn/blog">👉My Blog</a>
+      </div>
+      <div class=" line-info">
+        <a href="mailto:lrvinye@qq.com">👉Mail Me</a>
+      </div>
+      <div class="icp_beian line-info mt-4">
+        <a target="_blank" href="http://beian.miit.gov.cn">
+          湘ICP备2021004864号-1
+        </a>
+      </div>
+    </div>
+
+    <script src="https://www.jq22.com/jquery/jquery-3.3.1.js"></script>
+    <script>
+      $(() => {
+        var now = new Date();
+        $("#my-age").text(now.getFullYear() - 2000);
+      });
+    </script>
+  </body>
+</html>
