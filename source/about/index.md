@@ -20,7 +20,7 @@ date: 2020-05-28 21:54:20
   - 美食 🍊
   - 游戏 🎮
 - 找我
-  - [📧](mailTo://lrvinye@qq.com "📧")
+  - [📧](mailTo:lrvinye@qq.com "📧")
   - [👩‍💻](https://github.com/lrvinye "👩‍💻")
   - [🔗](https://lrvinye.cn "🔗")
   - [🔗](https://cherryez.com "🔗")

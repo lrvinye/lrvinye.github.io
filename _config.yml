@@ -4,17 +4,17 @@
 
 # Site
 title: lrvinyE's Blog
-subtitle: 'Cherryez'
+subtitle: 'World Peace'
 description: 'this is a personal website'
-keywords: 'lrvinye,Java,Vue,K8S'
+keywords: 'lrvinye,Java,React,Vue,K8S,Nodejs'
 author: lrvinye
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，则请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-url: https://lrvinye.cn
-root: /
+url: https://lrvinye.cn/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,5 +103,5 @@ theme_config: #主题的配置文件。在这里放置的配置会覆盖主题�
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lrvinye/lrvinye.github.io.git
+  repo: https://github.com/lrvinye/blog.git
   branch: master
