@@ -245,6 +245,6 @@ rabbitmqctl --erlang-cookie erlang.cookie cluster_status
 
 能看到：
 
-![](https://pic.cherryez.com/lrvinye/2020/6/11/TSBrowser_uV63m3BeIp.png)
+![](https://cdn.lrvinye.cn/blog/TSBrowser_uV63m3BeIp.png)
 
 **大功告成！**
